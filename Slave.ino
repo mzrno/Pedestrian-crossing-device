@@ -7,6 +7,7 @@
    3. Gathering scans and printing them on Serial Monitor and microSD card   
    4. Displaying speed and distance of vehicles on LCD
    5. Reseting the variables and starting again with gathering scans
+   6. If the distance of the vechicles is lower then 400 cm, a signal is sent to ArduCAM_Mini_Capture2SD_Edited.ino code and it captures an image
    
    Created by Mario Zrno, 21 July 2019.
 */
